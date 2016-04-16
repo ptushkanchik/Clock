@@ -132,34 +132,42 @@
 		position:absolute;
 		}
 .num1 {transform:rotate(30deg);
+		-webkit-transform:rotate(30deg);
 		top:39px;
 		left:286px;
 		}
 .num2 {transform:rotate(60deg);
+		-webkit-transform:rotate(60deg);
 		top:105px;
 		left:347px;
 		}
 .num4 {transform:rotate(120deg);
+		-webkit-transform:rotate(120deg);
 		top:276px;
 		left:342px;
 		}
 .num5 {transform:rotate(150deg);
+		-webkit-transform:rotate(150deg);
 		top:338px;
 		left:279px;
 		}
 .num7 {transform:rotate(210deg);
+		-webkit-transform:rotate(210deg);
 		top:336px;
 		left:107px;
 		}
 .num8 {transform:rotate(240deg);
+		-webkit-transform:rotate(240deg);
 		top:272px;
 		left:45px;
 		}
 .num10 {transform:rotate(300deg);
+		-webkit-transform:rotate(300deg);
 		top:100px;
 		left:48px;
 		}
 .num11 {transform:rotate(330deg);
+		-webkit-transform:rotate(330deg);
 		top:37px;
 		left:112px;
 		}
